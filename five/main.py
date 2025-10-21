@@ -70,7 +70,7 @@ for i in range(n):
             decrease(nums[number])
     else:
         if not result:
-            increase(nums[subject-75])
+            increase(nums[subject])
 
 print(weights)
 
